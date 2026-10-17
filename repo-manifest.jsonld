@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pyro-ppl/pyro/commit/a31bc1784707268cd79df77ead4c7a47062f0193",
       "git:hexsha": "a31bc1784707268cd79df77ead4c7a47062f0193",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "1.9.2"
     },
     {
